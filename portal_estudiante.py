@@ -479,7 +479,7 @@ if st.session_state.df_notas is not None:
     if metodo_busqueda == "🆔 Por número de cédula":
         cedula = st.text_input(
             "Número de cédula:",
-            placeholder="Ej: 32778512",
+            placeholder="Ej: 12345678",
             help="Ingresa tu número de cédula sin puntos ni espacios"
         )
         
