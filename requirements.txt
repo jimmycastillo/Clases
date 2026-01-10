@@ -1,7 +1,7 @@
-streamlit as st
-pandas as pd
-numpy as np
-matplotlib as plt
+streamlit
+pandas
+numpy
+matplotlib
 os
 datetime
 glob
